@@ -1,7 +1,6 @@
 import { useContext } from "react";
 
 import myContext from "../context/myContext.jsx";
-import Loader from "../components/Loader.jsx";
 
 const products = [
   {
